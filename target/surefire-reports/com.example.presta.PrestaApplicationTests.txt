@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.presta.PrestaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.753 s - in com.example.presta.PrestaApplicationTests
